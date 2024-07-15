@@ -1,0 +1,1 @@
+Welcome to the GitHub repository for the Innovative Monitoring System for Tele ICU Patients Using Video Processing and Deep Learning. This project aims to enhance patient monitoring in Intensive Care Units (ICUs) using advanced video processing techniques and deep learning models.
